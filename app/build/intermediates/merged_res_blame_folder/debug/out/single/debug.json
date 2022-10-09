@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-37:\\layout_activity_grid_list.xml.flat",
-        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-39:\\layout\\activity_grid_list.xml"
-    },
-    {
         "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-37:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-37:\\layout_activity_grid_list.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-39:\\layout\\activity_grid_list.xml"
     },
     {
         "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-37:\\drawable_bella.jpg.flat",
@@ -48,8 +48,8 @@
         "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-39:\\layout\\activity_vertical_list.xml"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-37:/layout_grid_list_item.xml.flat",
-        "source": "com.example.dogglers.app-main-39:/layout/grid_list_item.xml"
+        "merged": "com.example.dogglers.app-merged_res-37:/layout_vertical_horizontal_list_item.xml.flat",
+        "source": "com.example.dogglers.app-main-39:/layout/vertical_horizontal_list_item.xml"
     },
     {
         "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-37:\\layout_vertical_horizontal_list_item.xml.flat",

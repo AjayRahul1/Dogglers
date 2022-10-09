@@ -1,7 +1,7 @@
 
-Ğ
-_
-VerticalListTestscom.example.dogglersrecycler_view_item_count2¯˜‹š€—Á:°˜‹šÀµàØ"á
+Ï
+^
+VerticalListTestscom.example.dogglersrecycler_view_item_count2ôŒš€‹èá:öŒšÀ‹ä"á
 
 logcatandroidË
 ÈD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"ª
@@ -13,9 +13,9 @@ _
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoğ
-o
-VerticalListTestscom.example.dogglers(vertical_scroll_content_at_last_position2±˜‹š€ÑÓ‚:±˜‹š€§„›"ñ
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoï
+n
+VerticalListTestscom.example.dogglers(vertical_scroll_content_at_last_position2öŒšÀ€©:÷Œš€Ğ¥L"ñ
 
 logcatandroidÛ
 ØD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"ª
@@ -27,9 +27,9 @@ o
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoÃ
-X
-VerticalListTestscom.example.dogglersvertical_scrolling2²˜‹šÀŒ›¿:³˜‹šÀúC"Û
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoÄ
+Y
+VerticalListTestscom.example.dogglersvertical_scrolling2÷Œš€ºÙ:øŒš€à"Û
 
 logcatandroidÅ
 ÂD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"ª
@@ -41,9 +41,9 @@ X
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoò
-p
-VerticalListTestscom.example.dogglers)vertical_scroll_content_at_first_position2³˜‹š€ÁÄç:´˜‹šÀÒ˜Ô"ò
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoñ
+o
+VerticalListTestscom.example.dogglers)vertical_scroll_content_at_first_position2ùŒšÀ‡¾):ùŒš€©×"ò
 
 logcatandroidÜ
 ÙD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"ª
