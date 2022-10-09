@@ -1,10 +1,10 @@
 
-È
-[
-GridListTestscom.example.dogglersrecycler_view_item_count2ã‘‹šÀÖĞ­:ä‘‹š€×ŞÎ"İ
+Ğ
+_
+VerticalListTestscom.example.dogglersrecycler_view_item_count2¯˜‹š€—Á:°˜‹šÀµàØ"á
 
-logcatandroidÇ
-ÄD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.GridListTests-recycler_view_item_count.txt"ª
+logcatandroidË
+ÈD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"ª
 
 device-infoandroid
 ŒD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\device-info.pb"«
@@ -13,12 +13,12 @@
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoÕ
-a
-GridListTestscom.example.dogglersgrid_list_content_on_first_page2å‘‹š€¤ñ}:å‘‹š€éŠ"ä
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoğ
+o
+VerticalListTestscom.example.dogglers(vertical_scroll_content_at_last_position2±˜‹š€ÑÓ‚:±˜‹š€§„›"ñ
 
-logcatandroidÎ
-ËD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.GridListTests-grid_list_content_on_first_page.txt"ª
+logcatandroidÛ
+ØD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"ª
 
 device-infoandroid
 ŒD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\device-info.pb"«
@@ -27,12 +27,12 @@ a
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfo»
-T
-GridListTestscom.example.dogglersvertical_scrolling2æ‘‹šÀØ‘¬:ç‘‹šÀ‘æ`"×
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoÃ
+X
+VerticalListTestscom.example.dogglersvertical_scrolling2²˜‹šÀŒ›¿:³˜‹šÀúC"Û
 
-logcatandroidÁ
-¾D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.GridListTests-vertical_scrolling.txt"ª
+logcatandroidÅ
+ÂD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"ª
 
 device-infoandroid
 ŒD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\device-info.pb"«
@@ -41,26 +41,12 @@ T
 …D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
 
 device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoÜ
-e
-GridListTestscom.example.dogglers"grid_list_content_at_last_position2ç‘‹š€å¬ë:è‘‹š€²¿š"ç
+…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoò
+p
+VerticalListTestscom.example.dogglers)vertical_scroll_content_at_first_position2³˜‹š€ÁÄç:´˜‹šÀÒ˜Ô"ò
 
-logcatandroidÑ
-ÎD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.GridListTests-grid_list_content_at_last_position.txt"ª
-
-device-infoandroid
-ŒD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\device-info.pb"«
-
-device-info.meminfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\meminfo"«
-
-device-info.cpuinfoandroidˆ
-…D:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\cpuinfoŞ
-f
-GridListTestscom.example.dogglers#grid_list_content_at_first_position2è‘‹šÀ™Í™:é‘‹š€Ù±Á"è
-
-logcatandroidÒ
-ÏD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.GridListTests-grid_list_content_at_first_position.txt"ª
+logcatandroidÜ
+ÙD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"ª
 
 device-infoandroid
 ŒD:\AndroidStudioProjects\android-basics-kotlin-dogglers-app-main\app\build\outputs\androidTest-results\connected\CPH2213 - 12\device-info.pb"«
