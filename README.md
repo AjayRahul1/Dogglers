@@ -1,3 +1,10 @@
+## Dogglers Application Done ✅
+
+- ✅ Dogglers Application part of "[Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)" Course \[[Unit-2](https://developer.android.com/courses/android-basics-kotlin/unit-2) > [Pathway-3](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)] completed
+- With this, Unit-2️⃣ completed ✅
+
+## Default README that came with the project 👇
+
 Dogglers - Starter Code
 ==================================
 
