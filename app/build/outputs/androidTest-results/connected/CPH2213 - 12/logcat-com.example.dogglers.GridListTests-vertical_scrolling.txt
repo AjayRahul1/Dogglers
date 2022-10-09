@@ -1,0 +1,638 @@
+10-09 18:43:10.029 27684 27713 I TestRunner: started: vertical_scrolling(com.example.dogglers.GridListTests)
+10-09 18:43:10.032   973   973 D OplusLayer: ~Layer() sequence=9505, name=25ed54a com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb400007396318800
+10-09 18:43:10.032   973   973 I BufferQueueDebug: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](this:0xb400007396241998,id:-1,api:0,p:-1,c:973) onDestructor()
+10-09 18:43:10.032 27684 27751 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:118901874622486 framenumber:1 blastBufferQueue is dead
+10-09 18:43:10.032   973   973 D OplusLayer: ~Layer() sequence=9506, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1 0xb40000739623f000
+10-09 18:43:10.036   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.037 27684 27713 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-09 18:43:10.046  1866  2190 V ListServiceUtils: checkInListByUid start module:custom-icc uid:1000  time 17390936531us
+10-09 18:43:10.046   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.046  1219 18501 D MMListService: getPackageNameByUid uid:1000, procName:
+10-09 18:43:10.046  1866  2190 V ListServiceUtils: checkInListByUid end module:custom-icc uid:1000  time 17390936882us
+10-09 18:43:10.046  1866  2190 D ListServiceUtils: checkInListByUid module:custom-icc uid:1000 cost 350us return 0
+10-09 18:43:10.046  1219 18501 D MMListService: getListValueByUid module:image-processing, uid:1000
+10-09 18:43:10.046  1219 18501 D MMListService: getPackageNameByUid uid:1000, procName:
+10-09 18:43:10.047  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15399, tid:1999
+10-09 18:43:10.047  1866  2190 V ListServiceUtils: checkInListByUid module:image-processing uid:1000 cost 95us return (null)
+10-09 18:43:10.047  1866  2190 V JpegEncoderExtImpl: Resolution: 1080 x 2400,support: 0;
+10-09 18:43:10.047  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15399, dur:0, num:4, tid:1999
+10-09 18:43:10.047   886   961 I libPowerHal: [perfLockRel] hdl:15399, idx:0
+10-09 18:43:10.047   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.048   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.048   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.048   973   973 D OplusLayer: ~Layer() sequence=9518, name=Task=139#1 0xb4000073b076c800
+10-09 18:43:10.048   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.049  1866  1999 I mtkpower_client: ret_hdl:15400
+10-09 18:43:10.049   973   973 D OplusLayer: ~Layer() sequence=9503, name=ActivityRecord{c042af u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000073975c6000
+10-09 18:43:10.050   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.050   973   973 D OplusSurfaceFlinger: RESOLUTION > bounds(0,0,1080,2400), frame(0,0,1080,2400) FHD(1080, 2400), QHD(1080, 2400) mCurrentResolution=2 orientation = 0
+10-09 18:43:10.050  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15400, tid:1999
+10-09 18:43:10.050  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15400, dur:0, num:10, tid:1999
+10-09 18:43:10.050   886   961 I libPowerHal: [perfLockRel] hdl:15400, idx:0
+10-09 18:43:10.051   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.051  1866  1999 I mtkpower_client: ret_hdl:15401
+10-09 18:43:10.052   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.057   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.057   886   897 I mtkpower@impl: [setMode] type:5, enabled:1
+10-09 18:43:10.061  1866  1970 I PowerHalWrapper: <amsBoostResume> last:com.android.launcher, next:com.example.dogglers
+10-09 18:43:10.069  1866  3254 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+10-09 18:43:10.069  1866  3254 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+10-09 18:43:10.069  1866  3254 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+10-09 18:43:10.069  1866  3254 I OplusHansManager : front pkg: com.example.dogglers, uid: 10115, prev pkg: com.android.launcher, prev uid: 10105
+10-09 18:43:10.069  1866  3301 I OplusHansManager : notifyAppGoForeground, uid=10115
+10-09 18:43:10.070  1866  2540 I OplusHansManager : uid=10115, pkg=com.example.dogglers R exit SM
+10-09 18:43:10.070  1866  3301 I OplusHansManager : notifyAppGoBackground, uid=10105
+10-09 18:43:10.070  1866  2368 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_APP_SWITCH
+10-09 18:43:10.070  1866  2368 D Osense-DecisionMaker: getCurrentSysStats, memMb: 3721
+10-09 18:43:10.071  1866  2368 I Osense-DecisionMaker: scene: SCENE_APP_SWITCH, excutingPolicy: freezer
+10-09 18:43:10.072  1866  2540 I OplusHansManager : uid=10115, pkg=com.example.dogglers R exit()
+10-09 18:43:10.072  1866  2547 I OplusResourcePreloadManager: resume pkg: com.example.dogglers, uid:10115, prev pkg: com.android.launcher, prev uid: 10105
+10-09 18:43:10.072  1866  3254 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.072  1866  3254 I PowerHalWrapper: state: 1
+10-09 18:43:10.072  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.073  1866  3254 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{6d7aed6 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity t140}
+10-09 18:43:10.073   886   961 I libPowerHal: [perfNotifyAppState] foreground:com.example.dogglers, pid:27684, uid:10115
+10-09 18:43:10.073  1866  2855 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit, resuming = com.example.dogglers, target = com.android.launcher, is ResumingFirstStart =  false, is ResumingMultiApp =  false, extensionInfo =  Bundle[{taskId=140, uid=10115}]
+10-09 18:43:10.073  1866  7056 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.android.launcher to = com.example.dogglers
+10-09 18:43:10.073   886   961 I UxUtility: notifyForegroundApp pack:com.example.dogglers, uid:10115
+10-09 18:43:10.073   886   961 I TouchUtility: notifyAppState error = NULL
+10-09 18:43:10.074  1866  3254 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-09 18:43:10.074   886   896 I mtkpower@impl: [notifyAppState] pc:0, com.android.launcher => com.example.dogglers
+10-09 18:43:10.074   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.075   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.075  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15401, tid:1999
+10-09 18:43:10.076  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15401, dur:0, num:12, tid:1999
+10-09 18:43:10.076   886   961 I libPowerHal: [perfLockRel] hdl:15401, idx:0
+10-09 18:43:10.077   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.077   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.077   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.077 27684 27778 D libMEOW : meow new tls: 0xb4000076218f3380
+10-09 18:43:10.077 27684 27778 D libMEOW : applied 0 plugin for [com.example.dogglers].
+10-09 18:43:10.077  1866  3254 I PowerHalWrapper: amsBoostNotify pid:2548,activity:com.android.launcher.Launcher, package:com.android.launcher, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.077  1866  3254 I PowerHalWrapper: state: 0
+10-09 18:43:10.077  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.077  2739 31418 W Battery : ThermalControlUtils: mForegroundPkg=com.example.dogglers
+10-09 18:43:10.077 27684 27778 D libMEOW : meow delete tls: 0xb4000076218f3380
+10-09 18:43:10.077  1866  2855 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter, launchedFrom =  com.example.dogglers, target =  com.example.dogglers, is firstStart =  false, is multiApp =  false, extensionInfo =  Bundle[{taskId=140, pid=27684, uid=10115}]
+10-09 18:43:10.077   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.077  1866  1999 I mtkpower_client: ret_hdl:15402
+10-09 18:43:10.078   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.079  1866  1980 E AthenaService: MemoryGuardAction: handleAppChange
+10-09 18:43:10.079   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.079  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15402, tid:1999
+10-09 18:43:10.079  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15402, dur:0, num:12, tid:1999
+10-09 18:43:10.079   886   896 I mtkpower@impl: [check_work_req] i:1, msg:1 hdl:15402, wait
+10-09 18:43:10.080   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=3 apmStat=1
+10-09 18:43:10.081  4545 12284 D ZoomAppController: ignore onAppEnter: mCurrentZoomInfo is null
+10-09 18:43:10.081   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.081   886   961 I libPowerHal: [perfLockRel] hdl:15402, idx:0
+10-09 18:43:10.083  3306  3325 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:27684,uid:10115,hasForegroundActivities:1
+10-09 18:43:10.083  3306  4568 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:27684,uid:10115,hasForegroundActivities:1
+10-09 18:43:10.084  4707  4771 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:27684, uid:10115, foregroundActivities:true
+10-09 18:43:10.084  3306  4841 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=-1ms what=2 obj=com.oplus.atlas.OplusAtlasEvent@1c53c84 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-09 18:43:10.084   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.084   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.085   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.085 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: PRE_ON_CREATE
+10-09 18:43:10.085 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.086   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.087  1866  1999 I mtkpower_client: ret_hdl:15403
+10-09 18:43:10.087   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.088  1866  2540 I OplusHansManager : uid=10432, pkg=com.reglobe.cashify can transition from R to M
+10-09 18:43:10.088  1866  2540 I OplusHansManager : uid=10432, pkg=com.reglobe.cashify M enter()
+10-09 18:43:10.088  1866  2190 V ListServiceUtils: checkInListByUid start module:custom-icc uid:1000  time 17390978399us
+10-09 18:43:10.088  1219 18501 D MMListService: getPackageNameByUid uid:1000, procName:
+10-09 18:43:10.088  1866  2190 V ListServiceUtils: checkInListByUid end module:custom-icc uid:1000  time 17390978566us
+10-09 18:43:10.088  1866  2190 D ListServiceUtils: checkInListByUid module:custom-icc uid:1000 cost 166us return 0
+10-09 18:43:10.088  1219 18501 D MMListService: getListValueByUid module:image-processing, uid:1000
+10-09 18:43:10.088  1219 18501 D MMListService: getPackageNameByUid uid:1000, procName:
+10-09 18:43:10.088  1866  2190 V ListServiceUtils: checkInListByUid module:image-processing uid:1000 cost 134us return (null)
+10-09 18:43:10.088  1866  2190 V JpegEncoderExtImpl: Resolution: 540 x 1200,support: 0;
+10-09 18:43:10.089  2739 31418 W Battery : ThermalControllHandler: tempLevel=4,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+10-09 18:43:10.089  2739 31418 W Battery : ThermalControllerCenter: mSafetyState=10000
+10-09 18:43:10.090   973  1023 I SurfaceFlinger: [SF client] NEW(0xb4000073d54da7c0) for (1866:system_server)
+10-09 18:43:10.092  1866  1896 D WindowManager: Add to mViews: DecorView@5da99c8[dogglers],pkg= com.example.dogglers
+10-09 18:43:10.093  1866  1896 D ViewRootImpl[dogglers]: hardware acceleration = false, sRendererEnabled = true, forceHwAccelerated = false
+10-09 18:43:10.094  1866  1896 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.094  2739 31418 W Battery : ThermalControllHandler: tempGear=4,configItemName=common_config
+10-09 18:43:10.094  2739  5446 W Battery : ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+10-09 18:43:10.098   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.100  3335  3356 E oiface  : get gpu freq table failed
+10-09 18:43:10.102 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: CREATED
+10-09 18:43:10.103 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.103  3335  3356 E oiface  : get gpu freq table failed
+10-09 18:43:10.104 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: STARTED
+10-09 18:43:10.104 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.105  1866  1896 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.106   973  3273 I BufferQueueDebug: [Splash Screen com.example.dogglers#0](this:0xb400007396337998,id:-1,api:0,p:-1,c:-1) BufferQueue core=(973:/system/bin/surfaceflinger)
+10-09 18:43:10.110  1866  1896 I BufferQueueConsumer: [](id:74a000000f5,api:0,p:-1,c:1866) connect: controlledByApp=false
+10-09 18:43:10.111  1866  1896 I BLASTBufferQueue: [ViewRootImpl[dogglers]#165] constructor()
+10-09 18:43:10.112   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.113   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.113  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15403, tid:1999
+10-09 18:43:10.113  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15403, dur:0, num:12, tid:1999
+10-09 18:43:10.113   886   961 I libPowerHal: [perfLockRel] hdl:15403, idx:0
+10-09 18:43:10.114   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.114   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.114   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.114   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.114  1866  3254 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-09 18:43:10.115  1866  1999 I mtkpower_client: ret_hdl:15404
+10-09 18:43:10.116   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.118   886   897 I mtkpower@impl: [setMode] type:5, enabled:1
+10-09 18:43:10.119   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.120  1866  1970 I PowerHalWrapper: <amsBoostResume> last:com.example.dogglers, next:com.example.dogglers
+10-09 18:43:10.123  1866  1896 D Surface : lockCanvas
+10-09 18:43:10.123  1866  1896 I BufferQueueProducer: [ViewRootImpl[dogglers]#165(BLAST Consumer)165](id:74a000000f5,api:2,p:1866,c:1866) connect: api=2 producerControlledByApp=true
+10-09 18:43:10.124 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: RESUMED
+10-09 18:43:10.124 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.126 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: PAUSED
+10-09 18:43:10.127 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.130   973   973 D OplusLayer: setBuffer sequence=9522, name=Splash Screen com.example.dogglers#0
+10-09 18:43:10.130   973   973 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-09 18:43:10.130  1866  4256 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 18:43:10.133  1866  1970 I PowerHalWrapper: amsBoostNotify pid:27684,activity:com.example.dogglers.GridListActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.133  1866  1970 I PowerHalWrapper: state: 1
+10-09 18:43:10.133  1866  1970 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.133  1866  1970 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{d06b33f u0 com.example.dogglers/.GridListActivity t140}
+10-09 18:43:10.133   886   896 I mtkpower@impl: [notifyAppState] act androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity => com.example.dogglers.GridListActivity
+10-09 18:43:10.137  1866  1970 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.137  1866  1970 I PowerHalWrapper: state: 0
+10-09 18:43:10.137  1866  1970 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.137  1866  1895 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.137  1866  1895 I PowerHalWrapper: state: 0
+10-09 18:43:10.137  1866  1895 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.138   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.138 27684 27780 D libMEOW : meow new tls: 0xb4000076218f3840
+10-09 18:43:10.138 27684 27780 D libMEOW : applied 0 plugin for [com.example.dogglers].
+10-09 18:43:10.138 27684 27780 D libMEOW : meow delete tls: 0xb4000076218f3840
+10-09 18:43:10.139   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.139  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15404, tid:1999
+10-09 18:43:10.139  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15404, dur:0, num:12, tid:1999
+10-09 18:43:10.139   886   961 I libPowerHal: [perfLockRel] hdl:15404, idx:0
+10-09 18:43:10.139   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.140   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.140   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.140   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.140   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.141  1866  1999 I mtkpower_client: ret_hdl:15405
+10-09 18:43:10.141   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.151 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: PRE_ON_CREATE
+10-09 18:43:10.151 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-09 18:43:10.155 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.155 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.155 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.160   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.162  3333  3340 E horae   : 0: back:32400,frame:31989,front:33594, 4, +(2364), 1 ,31600,35958,33947,33717,34100
+10-09 18:43:10.164   973   973 D OplusLayer: ~Layer() sequence=9511, name=Surface(name=634d9c0 StatusBar)/@0x8de5787 - animation-leash of insets_animation#1 0xb400007396361800
+10-09 18:43:10.165   973   973 D OplusLayer: ~Layer() sequence=9512, name=Surface(name=97f7650 NavigationBar0)/@0x92332dd - animation-leash of insets_animation#1 0xb4000073d54af800
+10-09 18:43:10.165 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.165 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.165 27684 27684 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+10-09 18:43:10.172  4167  4167 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+10-09 18:43:10.174 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: CREATED
+10-09 18:43:10.174   867   923 I sensors-hal-OriginChannel: wise light debug, data[3].type is 65627,data[3].sensor is 91:[419.000000,,25.000000,,7.000000,0.000000,22744384581128]
+10-09 18:43:10.174 27684 27684 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.GridListActivity@d1ab058
+10-09 18:43:10.175 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: STARTED
+10-09 18:43:10.175 27684 27684 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.GridListActivity@d1ab058
+10-09 18:43:10.177 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: RESUMED
+10-09 18:43:10.177 27684 27684 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.GridListActivity@d1ab058
+10-09 18:43:10.178   973  1023 I SurfaceFlinger: [SF client] NEW(0xb4000073b0474100) for (27684:com.example.dogglers)
+10-09 18:43:10.180   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.182 27684 27684 D WindowManager: Add to mViews: DecorView@7b0d8a3[GridListActivity],pkg= com.example.dogglers
+10-09 18:43:10.184 27684 27684 D ViewRootImpl[GridListActivity]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+10-09 18:43:10.186  1866  1970 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.190 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: STOPPED
+10-09 18:43:10.190 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.197  1866  1970 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.198   973  3273 I BufferQueueDebug: [com.example.dogglers/com.example.dogglers.GridListActivity#0](this:0xb400007396392998,id:-1,api:0,p:-1,c:-1) BufferQueue core=(973:/system/bin/surfaceflinger)
+10-09 18:43:10.201   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.205  1866  1970 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-09 18:43:10.207 27684 27684 I BufferQueueConsumer: [](id:6c2400000006,api:0,p:-1,c:27684) connect: controlledByApp=false
+10-09 18:43:10.207 27684 27684 I BLASTBufferQueue: [ViewRootImpl[GridListActivity]#6] constructor()
+10-09 18:43:10.209 27684 27716 I BufferQueueProducer: [ViewRootImpl[GridListActivity]#6(BLAST Consumer)6](id:6c2400000006,api:1,p:27684,c:27684) connect: api=1 producerControlledByApp=true
+10-09 18:43:10.221   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.230   973   973 D OplusLayer: ~Layer() sequence=9526, name=Surface(name=634d9c0 StatusBar)/@0x8de5787 - animation-leash of insets_animation#0 0xb4000073b05bc000
+10-09 18:43:10.230   973   973 D OplusLayer: ~Layer() sequence=9527, name=Surface(name=97f7650 NavigationBar0)/@0x92332dd - animation-leash of insets_animation#0 0xb40000739627f800
+10-09 18:43:10.240  1866  1970 D skia    : SkJpegCodec::onGetPixels +
+10-09 18:43:10.241   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.249  1866  1970 D skia    : SkJpegCodec::onGetPixels -
+10-09 18:43:10.262   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.282   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.302   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.307  1866  1892 W ziparchive: Unable to open '/data/app/~~Z1WW6U10EYk5CSEJoLY5SQ==/com.example.dogglers-RyPN6uGBvZooufW96qo9HA==/base.dm': No such file or directory
+10-09 18:43:10.308 27684 27684 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-09 18:43:10.308  1866  1896 D View    : [Warning] assignParent to null: this = DecorView@5da99c8[dogglers]
+10-09 18:43:10.308  1866  1896 I BufferQueueProducer: [ViewRootImpl[dogglers]#165(BLAST Consumer)165](id:74a000000f5,api:2,p:1866,c:1866) disconnect: api 2
+10-09 18:43:10.308  1866  1896 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 18:43:10.308  1866  1896 I BLASTBufferQueue: [ViewRootImpl[dogglers]#165] destructor()
+10-09 18:43:10.308  1866  1896 I BufferQueueConsumer: [ViewRootImpl[dogglers]#165(BLAST Consumer)165](id:74a000000f5,api:0,p:-1,c:1866) disconnect
+10-09 18:43:10.309  1866  1892 I ActivityTaskManager: Displayed com.example.dogglers/.GridListActivity: +260ms
+10-09 18:43:10.309   886   897 I mtkpower@impl: [setMode] type:5, enabled:0
+10-09 18:43:10.311  1866  3254 I PowerHalWrapper: amsBoostStop AMS_BOOST_PACK_SWITCH:true, AMS_BOOST_ACT_SWITCH:true, AMS_BOOST_PROCESS_CREATE:false
+10-09 18:43:10.311  1866  1896 W InputManager-JNI: Input channel object 'b977986 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+10-09 18:43:10.312   973   973 D OplusLayer: setBuffer sequence=9529, name=com.example.dogglers/com.example.dogglers.GridListActivity#0
+10-09 18:43:10.313   973   973 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-09 18:43:10.313 27684 27705 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 18:43:10.315  1866  3254 I FocusResolver: updateFocusedWindow, b93fa4b com.example.dogglers/com.example.dogglers.GridListActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-09 18:43:10.315  1866  3254 I FocusResolver:     displayId=0, name='b93fa4b com.example.dogglers/com.example.dogglers.GridListActivity'
+10-09 18:43:10.316  1866  1970 I PowerHalWrapper: amsBoostStop AMS_BOOST_PACK_SWITCH:false, AMS_BOOST_ACT_SWITCH:false, AMS_BOOST_PROCESS_CREATE:false
+10-09 18:43:10.317  1866  3254 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=org.dslul.openboard.inputmethod.latin/.LatinIME
+10-09 18:43:10.317  1866  1970 W Binder  : Caught a RuntimeException from the binder stub implementation.
+10-09 18:43:10.317  1866  1970 W Binder  : java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.WindowManager$LayoutParams com.android.server.wm.WindowState.getAttrs()' on a null object reference
+10-09 18:43:10.317  1866  1970 W Binder  : 	at com.mediatek.server.am.AmsExtImpl.onEndOfActivityIdle(AmsExtImpl.java:452)
+10-09 18:43:10.317  1866  1970 W Binder  : 	at com.android.server.wm.ActivityClientController.activityIdle(ActivityClientController.java:145)
+10-09 18:43:10.317  1866  1970 W Binder  : 	at android.app.IActivityClientController$Stub.onTransact(IActivityClientController.java:515)
+10-09 18:43:10.317  1866  1970 W Binder  : 	at com.android.server.wm.ActivityClientController.onTransact(ActivityClientController.java:122)
+10-09 18:43:10.317  1866  1970 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1227)
+10-09 18:43:10.317  1866  1970 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1164)
+10-09 18:43:10.317  1866  3254 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+10-09 18:43:10.323   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.330   973   973 D OplusLayer: ~Layer() sequence=9517, name=Surface(name=7edaa53 InputMethod)/@0x5a9888e - animation-leash of insets_animation#0 0xb400007396297000
+10-09 18:43:10.344 27684 27684 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131230937/com.example.dogglers:id/grid_recycler_view>
+10-09 18:43:10.344   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.347   973  1201 D VRR [OTI]: handleIdle from 1 to 0
+10-09 18:43:10.347   973  1201 D VRR [OTI-HW]: isStateReady 0
+10-09 18:43:10.347   973  1201 D VRR [OTI-HW]: rate range: min {id=0, hwcId=0, fps=60.00, width=1080, height=2400 group=-1} cur {id=0, hwcId=0, fps=60.00, width=1080, height=2400 group=-1} max {id=0, hwcId=0, fps=60.00, width=1080, height=2400 group=-1}
+10-09 18:43:10.347   973  1201 D VRR [OTI-HW]: keep rate.
+10-09 18:43:10.348  1866  2174 D OGG_Detector: D:done mCurrStatus: 0
+10-09 18:43:10.349  2346  2346 D NoBackGesture: Start gesture: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=2223.538, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17391235, downTime=17391235, deviceId=-1, source=0x1002, displayId=0, eventId=-892490009 }
+10-09 18:43:10.349  2346  2346 D NoBackGesture: Not in side gesture area
+10-09 18:43:10.365   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.374   867   923 I sensors-hal-OriginChannel: wise light debug, data[4].type is 65627,data[4].sensor is 91:[441.000000,,200.000000,,6.000000,0.000000,22744584786377]
+10-09 18:43:10.378   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.378   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.379   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.380  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15405, tid:1999
+10-09 18:43:10.380  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15405, dur:0, num:4, tid:1999
+10-09 18:43:10.380   886   961 I libPowerHal: [perfLockRel] hdl:15405, idx:0
+10-09 18:43:10.381   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.381   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.381   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.381   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.382  1866  1999 I mtkpower_client: ret_hdl:15407
+10-09 18:43:10.385   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.405 27684 27697 I xample.doggler: Compiler allocated 4535KB to compile void android.view.ViewRootImpl.performTraversals()
+10-09 18:43:10.406   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.427 27684 27684 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10115; state: ENABLED
+10-09 18:43:10.427   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.447   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.451  1866  1895 I PowerHalWrapper: amsBoostNotify pid:2548,activity:com.android.launcher.Launcher, package:com.android.launcher, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.451  1866  1895 I PowerHalWrapper: state: 0
+10-09 18:43:10.451  1866  1895 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.456   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=3 apmStat=1
+10-09 18:43:10.457   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=5 apmStat=1
+10-09 18:43:10.457   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=5 apmStat=1
+10-09 18:43:10.461  2548  2792 I BufferQueueProducer: [ViewRootImpl[Launcher]#173(BLAST Consumer)173](id:9f40000010b,api:1,p:2548,c:2548) disconnect: api 1
+10-09 18:43:10.461  4661  4875 I BufferQueueProducer: [ViewRootImpl[Launcher]#171(BLAST Consumer)171](id:1235000000ab,api:1,p:4661,c:4661) disconnect: api 1
+10-09 18:43:10.462  4661  4875 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 18:43:10.462   973   973 D OplusLayer: ~Layer() sequence=9525, name=Surface(name=Task=5)/@0x94fb566 - animation-leash of app_transition#0 0xb400007396329800
+10-09 18:43:10.462   973   973 D OplusLayer: ~Layer() sequence=9524, name=Surface(name=Task=140)/@0xcf75036 - animation-leash of app_transition#0 0xb400007396327000
+10-09 18:43:10.462  2548  2792 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 18:43:10.468   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.470  2548  2548 I BLASTBufferQueue: [ViewRootImpl[Launcher]#173] destructor()
+10-09 18:43:10.471  2548  2548 I BufferQueueConsumer: [ViewRootImpl[Launcher]#173(BLAST Consumer)173](id:9f40000010b,api:0,p:-1,c:2548) disconnect
+10-09 18:43:10.474  4661  4661 I BLASTBufferQueue: [ViewRootImpl[Launcher]#171] destructor()
+10-09 18:43:10.474  4661  4661 I BufferQueueConsumer: [ViewRootImpl[Launcher]#171(BLAST Consumer)171](id:1235000000ab,api:0,p:-1,c:4661) disconnect
+10-09 18:43:10.475  4661  4661 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+10-09 18:43:10.476  4661  4661 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+10-09 18:43:10.482  3306  3324 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:2548,uid:10105,hasForegroundActivities:0
+10-09 18:43:10.482  4707  4734 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:2548, uid:10105, foregroundActivities:false
+10-09 18:43:10.482  3306  4568 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:2548,uid:10105,hasForegroundActivities:0
+10-09 18:43:10.482  3306  4841 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@b832c6d target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-09 18:43:10.488   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.495   973   973 I BufferQueueDebug: [com.android.launcher/com.android.launcher.Launcher#0](this:0xb4000073b05dd998,id:-1,api:0,p:-1,c:973) onDestructor()
+10-09 18:43:10.495   973   973 D OplusLayer: ~Layer() sequence=9509, name=com.android.launcher/com.android.launcher.Launcher#0 0xb4000073b05db000
+10-09 18:43:10.495  4661  6267 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:20018842567346 framenumber:1 blastBufferQueue is dead
+10-09 18:43:10.495   973   973 I BufferQueueDebug: [com.android.launcher/com.android.launcher.Launcher#1](this:0xb400007396334998,id:-1,api:0,p:-1,c:973) onDestructor()
+10-09 18:43:10.495   973   973 D OplusLayer: ~Layer() sequence=9510, name=com.android.launcher/com.android.launcher.Launcher#1 0xb400007396332000
+10-09 18:43:10.495  2548 12450 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:10943576671699 framenumber:51 blastBufferQueue is dead
+10-09 18:43:10.509   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.512   973   973 D OplusLayer: ~Layer() sequence=9532, name=Surface(name=b977986 Splash Screen com.example.dogglers)/@0x831b40c - animation-leash of window_animation#0 0xb400007397440000
+10-09 18:43:10.512   973   973 D OplusLayer: ~Layer() sequence=9521, name=b977986 Splash Screen com.example.dogglers#0 0xb4000073d5510000
+10-09 18:43:10.512   886   961 I libPowerHal: [perfLockRel] hdl:15406, idx:2
+10-09 18:43:10.513   886   961 I libPowerHal: [PD] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:0
+10-09 18:43:10.514  2346  2346 D NoBackGesture: End gesture: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=286.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=17391400, downTime=17391235, deviceId=-1, source=0x1002, displayId=0, eventId=-1058070091 }
+10-09 18:43:10.514   973   973 I BufferQueueDebug: [Splash Screen com.example.dogglers#0](this:0xb400007396337998,id:-1,api:0,p:-1,c:973) onDestructor()
+10-09 18:43:10.514   973   973 D OplusLayer: ~Layer() sequence=9522, name=Splash Screen com.example.dogglers#0 0xb400007396335000
+10-09 18:43:10.514  1866  4256 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:8014408974901 framenumber:1 blastBufferQueue is dead
+10-09 18:43:10.517   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.518   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.518   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.519  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15407, tid:1999
+10-09 18:43:10.519  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15407, dur:0, num:12, tid:1999
+10-09 18:43:10.519   886   961 I libPowerHal: [perfLockRel] hdl:15407, idx:0
+10-09 18:43:10.519   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.520  1866  1999 I mtkpower_client: ret_hdl:15408
+10-09 18:43:10.520   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.521   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.521  1866  3254 I mtkpower_client: perf_lock_acq, hdl:0, dur:3000, num:2, tid:3254
+10-09 18:43:10.521  1866  3254 I mtkpower_client: ret_hdl:15409
+10-09 18:43:10.522   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.522   886   961 I libPowerHal: cmdSetting - unknown cmd:2048700, scmd:(null) ,param_1:1
+10-09 18:43:10.522  1866  3254 I mtkpower_client: perf_lock_acq, hdl:0, dur:3000, num:4, tid:3254
+10-09 18:43:10.522   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.522  1866  3254 I mtkpower_client: ret_hdl:15410
+10-09 18:43:10.522   886   961 I libPowerHal: cmdSetting - unknown cmd:2000400, scmd:(null) ,param_1:-27716
+10-09 18:43:10.522   886   961 I libPowerHal: [fpsgo_noctrl_render_thread] 27716, 0xb4000074e3a19508
+10-09 18:43:10.522   886   961 E libPowerHal: Could not open '/sys/kernel/fpsgo/fstb/set_ui_ctrl'
+10-09 18:43:10.522   886   961 E libPowerHal: error : 2, No such file or directory
+10-09 18:43:10.522  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15408, tid:1999
+10-09 18:43:10.523  1866  3254 I mtkpower_client: perf_lock_rel, hdl:15410, tid:3254
+10-09 18:43:10.523  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15408, dur:0, num:8, tid:1999
+10-09 18:43:10.523   886   961 I libPowerHal: [perfLockRel] hdl:15408, idx:0
+10-09 18:43:10.523   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.523   886   961 I libPowerHal: [PD] system_server update cmd:1410000 param:0
+10-09 18:43:10.523   886   961 I libPowerHal: [PD] system_server update cmd:1c3c000, param:1
+10-09 18:43:10.523   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.524   886   961 I libPowerHal: [perfLockRel] hdl:15410, idx:3
+10-09 18:43:10.524   886   961 I libPowerHal: [fpsgo_noctrl_render_thread] 27716, 0xb4000074e3a19508
+10-09 18:43:10.524   886   961 E libPowerHal: Could not open '/sys/kernel/fpsgo/fstb/set_ui_ctrl'
+10-09 18:43:10.524   886   961 E libPowerHal: error : 2, No such file or directory
+10-09 18:43:10.524   886   961 I libPowerHal: [PD] system_server update ONESHOT cmd:2000300 param:27716
+10-09 18:43:10.524  1866  1999 I mtkpower_client: ret_hdl:15411
+10-09 18:43:10.524   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.525  1866  4256 I mtkpower_client: perf_lock_acq, hdl:15410, dur:3000, num:6, tid:4256
+10-09 18:43:10.525  1866  4256 I mtkpower_client: ret_hdl:15412
+10-09 18:43:10.527   886   961 I libPowerHal: [notify_targetFPS_pid] 27716, 0xb4000074e3a19508
+10-09 18:43:10.528  1866  4256 I mtkpower_client: perf_lock_rel, hdl:15412, tid:4256
+10-09 18:43:10.528   886   961 I libPowerHal: [perfLockRel] hdl:15412, idx:3
+10-09 18:43:10.528   886   961 I libPowerHal: [notify_targetFPS_pid] 27716, 0xb4000074e3a19508
+10-09 18:43:10.528   886   961 I libPowerHal: [PD] system_server update ONESHOT cmd:2000200 param:27716
+10-09 18:43:10.530   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.550   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.571   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.574   867   923 I sensors-hal-OriginChannel: wise light debug, data[0].type is 65627,data[0].sensor is 91:[434.000000,,200.000000,,6.000000,0.000000,22744784585070]
+10-09 18:43:10.580  2739  2922 D AppSwitchListener: onAppEnter: Uid = 10115
+10-09 18:43:10.580  2739  2922 W AuthDialogHelper: checkNotificationSwitchFirst() called with: context = [com.oplus.notification.NotificationCenterService@418e2fb], pkg = [com.example.dogglers], uid = [10115], userId = [0], init checker
+10-09 18:43:10.580  2739  2922 E AuthDialogHelper: CheckNotificationCanBeSetSecond: check com.example.dogglers , Notification master switch on, unable to pop dialog
+10-09 18:43:10.588 27684 27684 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+10-09 18:43:10.592   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.596   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.596   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.597   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.597   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.597  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15411, tid:1999
+10-09 18:43:10.597  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15411, dur:0, num:8, tid:1999
+10-09 18:43:10.597   886   961 I libPowerHal: [perfLockRel] hdl:15411, idx:0
+10-09 18:43:10.598   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.598   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.598  1866  1999 I mtkpower_client: ret_hdl:15413
+10-09 18:43:10.598   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.603   886   897 I mtkpower@impl: [setMode] type:5, enabled:1
+10-09 18:43:10.606  1866  1970 I PowerHalWrapper: <amsBoostResume> last:com.example.dogglers, next:com.example.dogglers
+10-09 18:43:10.612   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.613 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: PAUSED
+10-09 18:43:10.614 27684 27684 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.GridListActivity@d1ab058
+10-09 18:43:10.618  1866  3254 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.618  1866  3254 I PowerHalWrapper: state: 1
+10-09 18:43:10.618  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.618  1866  3254 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{18b69b8 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t140}
+10-09 18:43:10.618   886   896 I mtkpower@impl: [notifyAppState] act com.example.dogglers.GridListActivity => androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+10-09 18:43:10.619  1866  3254 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-09 18:43:10.622  1866  3254 I PowerHalWrapper: amsBoostNotify pid:27684,activity:com.example.dogglers.GridListActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.622  1866  3254 I PowerHalWrapper: state: 0
+10-09 18:43:10.623  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.626   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.626   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.627 27684 27785 D libMEOW : meow new tls: 0xb40000762051b580
+10-09 18:43:10.627 27684 27785 D libMEOW : applied 0 plugin for [com.example.dogglers].
+10-09 18:43:10.627 27684 27785 D libMEOW : meow delete tls: 0xb40000762051b580
+10-09 18:43:10.628 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.628   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.628 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.629   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.629  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15413, tid:1999
+10-09 18:43:10.629  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15413, dur:0, num:8, tid:1999
+10-09 18:43:10.629   886   961 I libPowerHal: [perfLockRel] hdl:15413, idx:0
+10-09 18:43:10.629 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: PRE_ON_CREATE
+10-09 18:43:10.630 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.630   856   856 I hwcomposer: [HWCDisplay] [Display_0 (type:1)] fps:61.292103,dur:1011.55,max:20.37,min:4.60
+10-09 18:43:10.631   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.631   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.632  1866  1999 I mtkpower_client: ret_hdl:15414
+10-09 18:43:10.632   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.633   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.636 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.641 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: CREATED
+10-09 18:43:10.642 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.643 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: STARTED
+10-09 18:43:10.643 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.644  1866  3254 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-09 18:43:10.644 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: RESUMED
+10-09 18:43:10.645 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.645   973  1023 I SurfaceFlinger: [SF client] NEW(0xb4000073d54d8a80) for (27684:com.example.dogglers)
+10-09 18:43:10.648 27684 27684 D WindowManager: Add to mViews: DecorView@392bf0[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+10-09 18:43:10.650 27684 27684 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+10-09 18:43:10.651  1866  3254 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.654   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.658  1866  3254 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.658   973  1023 I BufferQueueDebug: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](this:0xb4000073962b3998,id:-1,api:0,p:-1,c:-1) BufferQueue core=(973:/system/bin/surfaceflinger)
+10-09 18:43:10.662  1866  3254 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-09 18:43:10.664 27684 27684 I BufferQueueConsumer: [](id:6c2400000007,api:0,p:-1,c:27684) connect: controlledByApp=false
+10-09 18:43:10.664 27684 27684 I BLASTBufferQueue: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#7] constructor()
+10-09 18:43:10.666 27684 27716 I BufferQueueProducer: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#7(BLAST Consumer)7](id:6c2400000007,api:1,p:27684,c:27684) connect: api=1 producerControlledByApp=true
+10-09 18:43:10.673 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.674   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.677   973   973 D OplusLayer: setBuffer sequence=9536, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+10-09 18:43:10.677   973   973 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-09 18:43:10.677 27684 27751 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 18:43:10.681  1866  1892 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +84ms
+10-09 18:43:10.686  1866  1895 I PowerHalWrapper: amsBoostNotify pid:27684,activity:com.example.dogglers.GridListActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.686  1866  1895 I PowerHalWrapper: state: 0
+10-09 18:43:10.686  1866  1895 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.693   973   973 D OplusLayer: ~Layer() sequence=9530, name=Surface(name=634d9c0 StatusBar)/@0x8de5787 - animation-leash of insets_animation#1 0xb400007396377800
+10-09 18:43:10.693   973   973 D OplusLayer: ~Layer() sequence=9531, name=Surface(name=97f7650 NavigationBar0)/@0x92332dd - animation-leash of insets_animation#1 0xb40000739637a000
+10-09 18:43:10.695  1866  1970 I FocusResolver: updateFocusedWindow, d679ace com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-09 18:43:10.695  1866  1970 I FocusResolver:     displayId=0, name='d679ace com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+10-09 18:43:10.695   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.696   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.696   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.697 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: STOPPED
+10-09 18:43:10.697   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.697 27684 27684 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.GridListActivity@d1ab058
+10-09 18:43:10.697   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.698  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15414, tid:1999
+10-09 18:43:10.698  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15414, dur:0, num:8, tid:1999
+10-09 18:43:10.699   886   961 I libPowerHal: [perfLockRel] hdl:15414, idx:0
+10-09 18:43:10.699   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.699   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.699   886   897 I mtkpower@impl: [setMode] type:5, enabled:1
+10-09 18:43:10.699 27684 27684 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@d1ab058 in: DESTROYED
+10-09 18:43:10.700 27684 27684 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-09 18:43:10.700  1866  1999 I mtkpower_client: ret_hdl:15415
+10-09 18:43:10.701   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.702 27684 27716 I BufferQueueProducer: [ViewRootImpl[GridListActivity]#6(BLAST Consumer)6](id:6c2400000006,api:1,p:27684,c:27684) disconnect: api 1
+10-09 18:43:10.702 27684 27716 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 18:43:10.702 27684 27684 D View    : [Warning] assignParent to null: this = DecorView@7b0d8a3[GridListActivity]
+10-09 18:43:10.704  1866  1970 W InputManager-JNI: Input channel object 'b93fa4b com.example.dogglers/com.example.dogglers.GridListActivity (client)' was disposed without first being removed with the input manager!
+10-09 18:43:10.710   973   973 D OplusLayer: ~Layer() sequence=9528, name=b93fa4b com.example.dogglers/com.example.dogglers.GridListActivity#0 0xb400007396375000
+10-09 18:43:10.712 27684 27705 I BLASTBufferQueue: [ViewRootImpl[GridListActivity]#6] destructor()
+10-09 18:43:10.713 27684 27705 I BufferQueueConsumer: [ViewRootImpl[GridListActivity]#6(BLAST Consumer)6](id:6c2400000006,api:0,p:-1,c:27684) disconnect
+10-09 18:43:10.716   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.719  1866  3254 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=org.dslul.openboard.inputmethod.latin/.LatinIME
+10-09 18:43:10.719  1866  3254 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+10-09 18:43:10.721 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.725 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: PAUSED
+10-09 18:43:10.726 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.726   973   973 D OplusLayer: ~Layer() sequence=9533, name=Surface(name=7edaa53 InputMethod)/@0x5a9888e - animation-leash of insets_animation#1 0xb40000739637c800
+10-09 18:43:10.727   973   973 I BufferQueueDebug: [com.example.dogglers/com.example.dogglers.GridListActivity#0](this:0xb400007396392998,id:-1,api:0,p:-1,c:973) onDestructor()
+10-09 18:43:10.727   973   973 D OplusLayer: ~Layer() sequence=9529, name=com.example.dogglers/com.example.dogglers.GridListActivity#0 0xb400007396390000
+10-09 18:43:10.727 27684 27705 I BLASTBufferQueue: releaseBufferCallbackThunk bufferId:118901874622488 framenumber:24 blastBufferQueue is dead
+10-09 18:43:10.727   973   973 D OplusLayer: ~Layer() sequence=9504, name=Surface(name=7edaa53 InputMethod)/@0x5a9888e - animation-leash of insets_animation#1 0xb4000073975cd800
+10-09 18:43:10.727   973   973 D OplusLayer: ~Layer() sequence=9523, name=ActivityRecord{d06b33f u0 com.example.dogglers/.GridListActivity#0 0xb400007396351800
+10-09 18:43:10.731  1866  5002 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.731  1866  5002 I PowerHalWrapper: state: 1
+10-09 18:43:10.731  1866  5002 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.731  1866  5002 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{56537e u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t140}
+10-09 18:43:10.732  1866  5002 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-09 18:43:10.735  1866  5002 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.735  1866  5002 I PowerHalWrapper: state: 0
+10-09 18:43:10.735  1866  5002 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.736   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.736 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.737 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072 in: DESTROYED
+10-09 18:43:10.738 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c252072
+10-09 18:43:10.741 27684 27788 D libMEOW : meow new tls: 0xb4000076204d46c0
+10-09 18:43:10.741   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.741 27684 27788 D libMEOW : applied 0 plugin for [com.example.dogglers].
+10-09 18:43:10.741   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.741 27684 27788 D libMEOW : meow delete tls: 0xb4000076204d46c0
+10-09 18:43:10.742   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.742   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.742  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15415, tid:1999
+10-09 18:43:10.743  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15415, dur:0, num:8, tid:1999
+10-09 18:43:10.743   886   961 I libPowerHal: [perfLockRel] hdl:15415, idx:0
+10-09 18:43:10.743   973   973 D OplusLayer: ~Layer() sequence=9520, name=ActivityRecord{6d7aed6 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity#0 0xb40000739634f000
+10-09 18:43:10.745  1866  5002 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-09 18:43:10.746   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.746   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.746  1866  1999 I mtkpower_client: ret_hdl:15416
+10-09 18:43:10.747 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.747   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.748 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908 in: PRE_ON_CREATE
+10-09 18:43:10.748 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908
+10-09 18:43:10.757   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.757 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908 in: CREATED
+10-09 18:43:10.757 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908
+10-09 18:43:10.758 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908 in: STARTED
+10-09 18:43:10.758 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908
+10-09 18:43:10.760 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908 in: RESUMED
+10-09 18:43:10.760 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908
+10-09 18:43:10.760   973  1023 I SurfaceFlinger: [SF client] NEW(0xb4000073b0474400) for (27684:com.example.dogglers)
+10-09 18:43:10.763 27684 27684 D WindowManager: Add to mViews: DecorView@dab2db4[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+10-09 18:43:10.765 27684 27684 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+10-09 18:43:10.766  1866  3254 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.773  1866  3254 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+10-09 18:43:10.774   973  1023 I BufferQueueDebug: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](this:0xb400007396344998,id:-1,api:0,p:-1,c:-1) BufferQueue core=(973:/system/bin/surfaceflinger)
+10-09 18:43:10.774   867   923 I sensors-hal-OriginChannel: wise light debug, data[4].type is 65627,data[4].sensor is 91:[442.000000,,25.000000,,9.000000,0.000000,22744984799518]
+10-09 18:43:10.777   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.778  1866  3254 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+10-09 18:43:10.779 27684 27684 I BufferQueueConsumer: [](id:6c2400000008,api:0,p:-1,c:27684) connect: controlledByApp=false
+10-09 18:43:10.779 27684 27684 I BLASTBufferQueue: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#8] constructor()
+10-09 18:43:10.781 27684 27716 I BufferQueueProducer: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#8(BLAST Consumer)8](id:6c2400000008,api:1,p:27684,c:27684) connect: api=1 producerControlledByApp=true
+10-09 18:43:10.787 27684 27726 I libPerfCtl: fbcNotifySbeRescue ret=-1
+10-09 18:43:10.792   973   973 D OplusLayer: setBuffer sequence=9543, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1
+10-09 18:43:10.792   973   973 I OplusLayer: VRR [FRTC] update from -1 to 0
+10-09 18:43:10.793 27684 27751 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 18:43:10.793   973   973 D OplusLayer: ~Layer() sequence=9537, name=Surface(name=634d9c0 StatusBar)/@0x8de5787 - animation-leash of insets_animation#0 0xb4000073b059d800
+10-09 18:43:10.793   973   973 D OplusLayer: ~Layer() sequence=9538, name=Surface(name=97f7650 NavigationBar0)/@0x92332dd - animation-leash of insets_animation#0 0xb4000073b05af800
+10-09 18:43:10.795  1866  1892 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +97ms
+10-09 18:43:10.798   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.800  1866  1895 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.800  1866  1895 I PowerHalWrapper: state: 0
+10-09 18:43:10.800  1866  1895 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.807 27684 27716 I BufferQueueProducer: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#7(BLAST Consumer)7](id:6c2400000007,api:1,p:27684,c:27684) disconnect: api 1
+10-09 18:43:10.807 27684 27716 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 18:43:10.810  1866  1970 I FocusResolver: updateFocusedWindow, b9e2d5c com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: Window became focusable. Previous reason: NOT_VISIBLE, result:   FocusedWindows:
+10-09 18:43:10.810  1866  1970 I FocusResolver:     displayId=0, name='b9e2d5c com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+10-09 18:43:10.811 27684 27684 I BLASTBufferQueue: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#7] destructor()
+10-09 18:43:10.811 27684 27684 I BufferQueueConsumer: [ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]#7(BLAST Consumer)7](id:6c2400000007,api:0,p:-1,c:27684) disconnect
+10-09 18:43:10.813 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: STOPPED
+10-09 18:43:10.813 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.818   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.819   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.820   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.820  1866  3254 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+10-09 18:43:10.821   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.821  1866  3254 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{99a9718 u0 com.android.launcher/.Launcher t5}
+10-09 18:43:10.821   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+10-09 18:43:10.821  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15416, tid:1999
+10-09 18:43:10.822  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15416, dur:0, num:8, tid:1999
+10-09 18:43:10.822   886   961 I libPowerHal: [perfLockRel] hdl:15416, idx:0
+10-09 18:43:10.822   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.822   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.823  1866  1999 I mtkpower_client: ret_hdl:15417
+10-09 18:43:10.824   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 1393000 -1 1274000 -1
+10-09 18:43:10.824   940   940 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+10-09 18:43:10.824   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.824   940   940 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+10-09 18:43:10.825  1866  1999 I mtkpower_client: perf_lock_rel, hdl:15417, tid:1999
+10-09 18:43:10.825  1866  1999 I mtkpower_client: perf_lock_acq, hdl:15417, dur:0, num:12, tid:1999
+10-09 18:43:10.826  1866  1970 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=org.dslul.openboard.inputmethod.latin/.LatinIME
+10-09 18:43:10.826  1866  1970 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+10-09 18:43:10.826   886   961 I libPowerHal: [perfLockRel] hdl:15417, idx:0
+10-09 18:43:10.827   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: -1 -1 -1 -1
+10-09 18:43:10.827   886   961 I libPowerHal: [PD] system_server update cmd:2004100 param:2
+10-09 18:43:10.827  1866  1970 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=org.dslul.openboard.inputmethod.latin/.LatinIME
+10-09 18:43:10.827  1866  1970 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+10-09 18:43:10.827  1866  1970 D InputMethodManagerService: startInputOrWindowGainedFocus:  reset Secure =false
+10-09 18:43:10.827  1866  1999 I mtkpower_client: ret_hdl:15418
+10-09 18:43:10.828  1866  1970 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+10-09 18:43:10.828   886   961 I libPowerHal: system_server: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+10-09 18:43:10.829 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908 in: PAUSED
+10-09 18:43:10.829 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ff28908
+10-09 18:43:10.830  1866  3254 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+10-09 18:43:10.830  1866  3254 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+10-09 18:43:10.830  1866  3254 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+10-09 18:43:10.830  1866  3254 I OplusHansManager : front pkg: com.android.launcher, uid: 10105, prev pkg: com.example.dogglers, prev uid: 10115
+10-09 18:43:10.830  1866  3301 I OplusHansManager : notifyAppGoForeground, uid=10105
+10-09 18:43:10.830  1866  3301 I OplusHansManager : notifyAppGoBackground, uid=10115
+10-09 18:43:10.830  1866  2540 I OplusHansManager : uid=10115, pkg=com.example.dogglers enter SM
+10-09 18:43:10.830  1866  2540 I OplusHansManager : uid=10115, pkg=com.example.dogglers R enter()
+10-09 18:43:10.830  1866  2368 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_LAUNCHER
+10-09 18:43:10.831  1866  2368 D Osense-DecisionMaker: getCurrentSysStats, memMb: 3761
+10-09 18:43:10.831  1866  2547 I OplusResourcePreloadManager: resume pkg: com.android.launcher, uid:10105, prev pkg: com.example.dogglers, prev uid: 10115
+10-09 18:43:10.832  1866  2855 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit, resuming = com.android.launcher, target = com.example.dogglers, is ResumingFirstStart =  false, is ResumingMultiApp =  false, extensionInfo =  Bundle[{taskId=5, uid=10105}]
+10-09 18:43:10.832  1866  7056 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.dogglers to = com.android.launcher
+10-09 18:43:10.832  1866  3254 I PowerHalWrapper: amsBoostNotify pid:2548,activity:com.android.launcher.Launcher, package:com.android.launcher, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.832  1866  3254 I PowerHalWrapper: state: 1
+10-09 18:43:10.832  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.832  2739 31418 D AppSwitchListener: onAppExit() called !
+10-09 18:43:10.833  1866  2855 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter, launchedFrom =  null, target =  com.android.launcher, is firstStart =  false, is multiApp =  false, extensionInfo =  Bundle[{taskId=5, pid=2548, uid=10105}]
+10-09 18:43:10.833   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=5 apmStat=1
+10-09 18:43:10.834  2739  2769 W Battery : ThermalControlUtils: mForegroundPkg=com.android.launcher
+10-09 18:43:10.834   886   961 I libPowerHal: [perfNotifyAppState] foreground:com.android.launcher, pid:2548, uid:10105
+10-09 18:43:10.835   886   961 I UxUtility: notifyForegroundApp pack:com.android.launcher, uid:10105
+10-09 18:43:10.835   886   961 I TouchUtility: notifyAppState error = NULL
+10-09 18:43:10.835  1866  1980 E AthenaService: MemoryGuardAction: handleAppChange
+10-09 18:43:10.835   886   896 I mtkpower@impl: [notifyAppState] pc:0, com.example.dogglers => com.android.launcher
+10-09 18:43:10.836  1866  3254 I PowerHalWrapper: amsBoostNotify pid:27684,activity:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, package:com.example.dogglers, mProcessCreatePackcom.example.dogglers
+10-09 18:43:10.836  1866  3254 I PowerHalWrapper: state: 0
+10-09 18:43:10.836  4707  4736 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:2548, uid:10105, foregroundActivities:true
+10-09 18:43:10.836  1866  3254 I PowerHalWrapper: amsBoostNotify AMS_BOOST_PROCESS_CREATE_BOOST:false
+10-09 18:43:10.837  3306  3324 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:2548,uid:10105,hasForegroundActivities:1
+10-09 18:43:10.837  3306  4568 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:2548,uid:10105,hasForegroundActivities:1
+10-09 18:43:10.837  3306  4841 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@7b150a2 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+10-09 18:43:10.837  4545 12284 D ZoomAppController: ignore onAppEnter: mCurrentZoomInfo is null
+10-09 18:43:10.838  2739  2769 W Battery : ThermalControllHandler: tempLevel=4,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+10-09 18:43:10.839  2739  2769 W Battery : ThermalControllerCenter: mSafetyState=10000
+10-09 18:43:10.839   859  4288 D C2MtkBufferManager: over 5000ms not request from VCodec but callback hooked, slow BM Cc fetch thread
+10-09 18:43:10.840   973  3273 I BufferQueueDebug: [com.android.launcher/com.android.launcher.Launcher#0](this:0xb400007396395998,id:-1,api:0,p:-1,c:-1) BufferQueue core=(973:/system/bin/surfaceflinger)
+10-09 18:43:10.841  2739  2769 W Battery : ThermalControllHandler: tempGear=4,configItemName=common_config
+10-09 18:43:10.842  2739  5446 W Battery : ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+10-09 18:43:10.843 27684 27684 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131 in: DESTROYED
+10-09 18:43:10.843 27684 27684 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10115 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@1fa6131
+10-09 18:43:10.843   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=5 apmStat=1
+10-09 18:43:10.844   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=3 apmStat=1
+10-09 18:43:10.845  4661  4661 I BufferQueueConsumer: [](id:1235000000ac,api:0,p:-1,c:4661) connect: controlledByApp=false
+10-09 18:43:10.845  4661  4661 I BLASTBufferQueue: [ViewRootImpl[Launcher]#172] constructor()
+10-09 18:43:10.845 27684 27684 D View    : [Warning] assignParent to null: this = DecorView@392bf0[InstrumentationActivityInvoker$EmptyActivity]
+10-09 18:43:10.846  4661  4661 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+10-09 18:43:10.846  4661  4661 I A       : (REDACTED) onApplyWindowInsets: systemWindowInsets=%s
+10-09 18:43:10.846  4661  4875 I BufferQueueProducer: [ViewRootImpl[Launcher]#172(BLAST Consumer)172](id:1235000000ac,api:1,p:4661,c:4661) connect: api=1 producerControlledByApp=true
+10-09 18:43:10.850  1866  4256 W InputManager-JNI: Input channel object 'd679ace com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+10-09 18:43:10.850   968   968 D AudioPolicyService: updateUidStates_l() current->uid=10136 current->pid=4167 allowCapture=1 UidState=3 apmStat=1
+10-09 18:43:10.851  3335  3356 E oiface  : get gpu freq table failed
+10-09 18:43:10.854  3335  3356 E oiface  : get gpu freq table failed
+10-09 18:43:10.858 27684 27713 I TestRunner: finished: vertical_scrolling(com.example.dogglers.GridListTests)
